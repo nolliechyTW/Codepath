@@ -1,8 +1,25 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this project, I will build a grid-style calendar with one-hour events that plan out a single week. Timetables can be informative, humorous, or exploratory. For example:
 
-Currently, two official plugins are available:
+- General: Plan a vacation for a friend, family member, or pet
+- History: A week in the life of a historical figure, timeline of a coup
+- Psychology: How to adapt to a polyphasic sleep cycle
+- True crime: The week before a famous crime
+- View an exemplar of what you'll be creating in this lab here!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Required Features
+- A one-week calendar that includes one-hour time blocks
+- Events have different titles
+- Events have different colors based on their type
+- Stretch Features
+- Event blocks have additional information, such as a description and location
+
+## Bonus Feathers
+- Event blocks have additional information, such as a description and location
+
+## Resources
+- [Getting Started with Vite](https://vitejs.dev/guide/)
+- [ReactJS: Introducing JSX](https://legacy.reactjs.org/docs/introducing-jsx.html)
+- [ReactJS: Rendering Elements](https://legacy.reactjs.org/docs/rendering-elements.html)
+- [ReactJS: Components and Props](https://legacy.reactjs.org/docs/components-and-props.html)
