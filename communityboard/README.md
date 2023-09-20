@@ -21,4 +21,4 @@ In this project, I will create an resources board for my community! On each card
 - [Passing Data Through Props](https://react.dev/learn/tutorial-tic-tac-toe#passing-data-through-props)
 
 ## Preview
-![ezgif com-video-to-gif](https://github.com/nolliechyTW/Codepath_web102/assets/106467497/ef7400ea-dc1a-4355-9cac-5bf7799b4a8a)
+![ezgif com-video-to-gif](https://github.com/nolliechyTW/Codepath_web102/assets/106467497/41f92410-609e-44cd-801e-1fab059dd491)
