@@ -1,8 +1,24 @@
-# React + Vite
+# Community Board
+In this project, I will create an resources board for my community! On each card of my community board, I will display some information about the museums or tourist attractions in Philly.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Goals
+- Initialize a new React application with Vite
+- Create a functional React component
+- Define and pass props to components
+- Apply CSS styling to React components
 
-Currently, two official plugins are available:
+## Required Features
+- Create a unique theme for events or resources relevant to a specific community
+- Display at least 10 unique resources or events in a responsive card format
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Bonus Feathers
+- Add buttons or links to a related resource on each card component
+- Make the site responsive for both desktop and mobile formats
+
+## Resources
+- [Getting Started with Vite](https://vitejs.dev/guide/)
+- [Components and Props](https://legacy.reactjs.org/docs/components-and-props.html)
+- [Passing Data Through Props](https://react.dev/learn/tutorial-tic-tac-toe#passing-data-through-props)
+
+## Preview
+![ezgif com-video-to-gif](https://github.com/nolliechyTW/Codepath_web102/assets/106467497/ef7400ea-dc1a-4355-9cac-5bf7799b4a8a)
