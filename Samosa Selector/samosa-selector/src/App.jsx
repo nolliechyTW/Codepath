@@ -21,7 +21,7 @@ const App = () => {
     if (count >= 100) {
       setMultiplier(multiplier * 5);
       setCount(count - 100);
-    }
+    } 
   }
 
   const buyFullFeast = () => {
