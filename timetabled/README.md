@@ -14,7 +14,7 @@ In this project, I will build a grid-style calendar with one-hour events that pl
 - Stretch Features
 - Event blocks have additional information, such as a description and location
 
-## Bonus Feathers
+## Bonus Features
 - Event blocks have additional information, such as a description and location
 
 ## Resources
