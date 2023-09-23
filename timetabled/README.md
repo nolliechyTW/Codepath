@@ -1,5 +1,4 @@
-# React + Vite
-
+# Timetabled
 In this project, I will build a grid-style calendar with one-hour events that plan out a single week. Timetables can be informative, humorous, or exploratory. For example:
 
 - General: Plan a vacation for a friend, family member, or pet

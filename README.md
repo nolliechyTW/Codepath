@@ -9,7 +9,7 @@ This repository is created by **Nollie Chen** to showcase my learning process. T
 The course is divided into 10 units, each focusing on different aspects of web development.<br>In total, there are 7 lab assignments, 7 weekly projects, and 1 final project. <br>Here's an overview of what you can expect from each unit:
 | Unit | Coursework | Content Description | My Work |
 |------|----------|------------| ---------------|
-| 1    | Diving Into React | React Basics, Introducing JSX, Functional Components, Props | [Timetabled](https://github.com/nolliechyTW/Codepath_web102/tree/main/timetabled), Community Board
+| 1    | Diving Into React | React Basics, Introducing JSX, Functional Components, Props | [Timetabled](https://github.com/nolliechyTW/Codepath_web102/tree/main/timetabled), [Community Board](https://github.com/nolliechyTW/Codepath_web102/tree/main/communityboard)
 | 2    | Creating an Interactive Frontend | State, Hooks: useState(), Events: onClick(), GitHub Basics | Samosa Selector, Pair Cards Pt. 1
 | 3    | Responding to Complex User Input | Form Handling, Arrays as State, Events within Nested Components | On My Grind, Pair Cards Pt. 2
 | 4    | API Introduction | HTTP Get Requests, Async/Await | Cap, Veni Vici
