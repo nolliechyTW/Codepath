@@ -11,7 +11,7 @@ In this project, I will create an resources board for my community! On each card
 - Create a unique theme for events or resources relevant to a specific community
 - Display at least 10 unique resources or events in a responsive card format
 
-## Bonus Feathers
+## Bonus Features
 - Add buttons or links to a related resource on each card component
 - Make the site responsive for both desktop and mobile formats
 
