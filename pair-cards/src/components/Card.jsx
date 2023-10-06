@@ -1,8 +1,13 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import './Card.css'
 
 function Card(props) {
     const [isFlipped, setIsFlipped] = useState(false);
+
+    useEffect(() => {
+        setIsFlipped(false); // Set isFlipped to false whenever the card changes
+    }, [props.french]);
+
     return (
         <div
         className={`card ${isFlipped ? "flipped" : ""} ${props.difficulty}`}

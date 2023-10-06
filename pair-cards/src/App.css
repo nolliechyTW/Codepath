@@ -28,3 +28,46 @@
   color: #888;
 }
 
+.green-border {
+  border: 3px solid green;
+}
+
+.red-border {
+  border: 3px solid red;
+}
+
+.submit-button {
+  width: 100px;
+  height: 35px;
+  font-size: 11px
+}
+
+.user-guessing {
+  display: flex;
+  margin-bottom: 10px; 
+  justify-content: center;
+}
+
+.user-guessing input {
+  margin-right: 10px;
+  width: 300px;
+  height:auto;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px; /* Add margin to create a gap at the bottom */
+}
+
+.card {
+  position: relative;
+  margin-right: 10px;
+  width: 400px; /* Increase the width to 400 pixels */
+  height: 250px;
+}
+
+.streak{
+  margin-bottom: 20px;
+}
