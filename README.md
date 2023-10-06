@@ -10,7 +10,7 @@ The course is divided into 10 units, each focusing on different aspects of web d
 | Unit | Coursework | Content Description | My Work |
 |------|----------|------------| ---------------|
 | 1    | Diving Into React | React Basics, Introducing JSX, Functional Components, Props | [Timetabled](https://github.com/nolliechyTW/Codepath_web102/tree/main/timetabled), [Community Board](https://github.com/nolliechyTW/Codepath_web102/tree/main/communityboard)
-| 2    | Creating an Interactive Frontend | State, Hooks: useState(), Events: onClick(), GitHub Basics | [Samosa Selector](https://github.com/nolliechyTW/Codepath_web102/tree/main/samosa-selector), Pair Cards Pt. 1
+| 2    | Creating an Interactive Frontend | State, Hooks: useState(), Events: onClick(), GitHub Basics | [Samosa Selector](https://github.com/nolliechyTW/Codepath_web102/tree/main/samosa-selector), [Pair Cards Pt. 1](https://github.com/nolliechyTW/Codepath_web102/blob/main/pair-cards/README.md)
 | 3    | Responding to Complex User Input | Form Handling, Arrays as State, Events within Nested Components | On My Grind, Pair Cards Pt. 2
 | 4    | API Introduction | HTTP Get Requests, Async/Await | Cap, Veni Vici
 | 5    | Using Real-World Data | Using APIs with React, Component Lifecycle, Conditional Rendering, Using filter() and map() | CryptoHustle Lite, Data Dashboard Pt.1
