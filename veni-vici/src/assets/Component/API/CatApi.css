@@ -1,0 +1,15 @@
+img {
+    width: 400px;
+    height: auto;
+    max-height: 400px;
+    margin-bottom: 20px;
+}
+
+.cat_attribute {
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    margin: 20px; /* Add 10px of margin on all sides */
+    padding: 10px;
+    border-radius: 10px;
+}

@@ -1,0 +1,11 @@
+.card{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    background-color: #b7a8a8;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
