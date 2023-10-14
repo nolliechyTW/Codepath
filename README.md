@@ -13,7 +13,7 @@ The course is divided into 10 units, each focusing on different aspects of web d
 | 2    | Creating an Interactive Frontend | State, Hooks: useState(), Events: onClick(), GitHub Basics | [Samosa Selector](https://github.com/nolliechyTW/Codepath_web102/tree/main/samosa-selector), [Pair Cards Pt. 1](https://github.com/nolliechyTW/Codepath_web102/blob/main/pair-cards/README.md)
 | 3    | Responding to Complex User Input | Form Handling, Arrays as State, Events within Nested Components | On My Grind, [Pair Cards Pt. 2](https://github.com/nolliechyTW/Codepath_web102/blob/main/pair-cards/README.md)
 | 4    | API Introduction | HTTP Get Requests, Async/Await | [Cap](https://github.com/nolliechyTW/Codepath_web102/blob/main/cap/README.md), Veni Vici
-| 5    | Using Real-World Data | Using APIs with React, Component Lifecycle, Conditional Rendering, Using filter() and map() | CryptoHustle Lite, Data Dashboard Pt.1
+| 5    | Using Real-World Data | Using APIs with React, Component Lifecycle, Conditional Rendering, Using filter() and map() | [CryptoHustle Lite](https://github.com/nolliechyTW/Codepath_web102/blob/main/crypto-hustle/README.md), Data Dashboard Pt.1
 | 6    | Implementing Navigation | React Router, Constructing a Detail View | CryptoHustle Pro, Data Dashboard Pt.2
 | 7    | Connecting to a Database | HTTP Requests, Create, Read, Update, and Delete, Post/Patch and Delete | Bet, Crewmates
 | 8    | Polishing the User Experience | Web Design Principles | Final Project
